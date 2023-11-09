@@ -45,6 +45,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-rest</artifactId>
 		</dependency>
+
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId><!--HTTP PATCH METHOD-->
 			<artifactId>httpclient</artifactId>
@@ -78,6 +79,7 @@
 					<execution>
 						<goals>
 							<goal>repackage</goal>
+							<goal>build-info</goal>
 						</goals>
 					</execution>
 				</executions>

@@ -5,37 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5797d0ec-ad09-480d-bbe2-9eb6c7d15c16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/src/main/java/com/huntercodexs/clientrestexample/ClientRestExampleApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/src/main/java/com/huntercodexs/clientrestexample/controller/ClientRestExampleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/target/classes/com/huntercodexs/clientrestexample/ClientRestExampleApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client-rest-example/target/classes/com/huntercodexs/clientrestexample/controller/ClientRestExampleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/src/main/java/com/huntercodexs/serveradminexample/ServerAdminExampleApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-admin-example/target/classes/com/huntercodexs/serveradminexample/ServerAdminExampleApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway-example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huntercodexs/servicediscoveryexample/ServiceDiscoveryExampleApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service1-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service1-example/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
